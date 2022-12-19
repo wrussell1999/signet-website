@@ -1,0 +1,45 @@
+<header class="nav-bar">
+    <nav class="nav">
+        <div class="nav-left">
+            <a id="logo" href="/">
+                <!--<img src="/assets/img/logo-white.png" />-->
+                <h1>UK SigneT Class Owners Association</h1>
+            </a>
+        </div>
+        <div class="nav-right">
+            <div id="links">
+                <a href="/events">
+                    <h2>Events</h2>
+                </a>
+                <a href="/results">
+                    <h2>Results</h2>
+                </a>
+                <a href="/resources">
+                    <h2>Resources</h2>
+                </a>
+                <a href="/gallery">
+                    <h2>Gallery</h2>
+                </a>
+                <a href="/blog">
+                    <h2>Blog</h2>
+                </a>
+                <a href="/about">
+                    <h2>About</h2>
+                </a>
+            </div>
+            <a href="javascript:void(0);" id="hamburger" class="icon" onclick="showMenu()">
+                <i class="fa fa-bars" style="color:#fff"></i>
+            </a>
+        </div>
+    </nav>
+    <script>
+        function showMenu() {
+                var x = document.getElementById("links");
+                if (x.style.display === "block") {
+                    x.style.display = "none";
+                } else {
+                    x.style.display = "block";
+                }
+            }
+    </script>
+</header>
