@@ -81,6 +81,24 @@ body {
     }
 }
 
+.post {
+    margin-left: 40px;
+    margin-bottom: 50px;
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 300px;
+        object-fit: cover;
+        height: 500px;
+        border-radius: 10px;
+    }
+    p {
+
+        margin-right: 30%;
+    }
+}
+
 @media screen and (max-width: 768px) {
 
     .page h1 {
