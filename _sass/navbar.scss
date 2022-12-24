@@ -46,6 +46,15 @@
         
         #hamburger {
             display: none;
+            float: right;
+            
+        }
+        #hamburger-icon {
+            color: white;
+
+                &:hover {
+                    color: black;
+                }
         }
 
         
@@ -67,6 +76,7 @@
             }
             #hamburger {
                 display: block;
+                float: right;
             }
         
 
