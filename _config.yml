@@ -1,10 +1,9 @@
-title: SigneT Class Owners Association (UK)
+title: SigneT Class Owners Association (UK) Noticeboard
 email: secretary@sailsignet.org.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  The SigneT is a 12’4” traditional racing dinghy designed in 1961 by the late Ian Proctor. In Ian’s own words, “the design problem set by the Sunday Times was to provide really good sailing and racing at the lowest possible cost” and over 50 years later the SigneT does exactly that.
+  Noticeboard for the SigneT
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SailSigneT
 
 # Build settings
 plugins:

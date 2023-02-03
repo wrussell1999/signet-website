@@ -7,9 +7,5 @@ permalink: /results
 </div>
 # Results
 
+- [2023](/results/2023)
 - [2022](/results/2022)
-- 2021
-- 2020
-- 2019
-- 2018
-- 2017
