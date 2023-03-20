@@ -1,16 +1,16 @@
 ---
 layout: page
-permalink: /blog
+permalink: /news
 ---
 <div class="banner">
     <img src="/assets/img/header8.jpg">
 </div>
-<h1>Blog</h1>
+<h1>News</h1>
 
 <ul>
     {% for post in site.posts %}
     <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.permalink }}">{{ post.title }}</a>
     </li>
     {% endfor %}
 </ul>
