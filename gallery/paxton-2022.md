@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /gallery/2022/paxton
+permalink: /photos/2022/paxton
 ---
 
 # Paxton Open 2022

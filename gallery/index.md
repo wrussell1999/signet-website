@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /gallery
+permalink: /photos
 ---
 <div class="banner">
     <img src="/assets/img/header7.jpg">
@@ -8,8 +8,8 @@ permalink: /gallery
 # Gallery 
 
 ## 2022
-- [Hunts Open](/gallery/2022/hunts)
-- [Frensham Open](/gallery/2022/frensham)
-- [Broadstairs Open](/gallery/2022/broadstairs)
-- [Nationals](/gallery/2022/nationals)
-- [Paxton Open](/gallery/2022/paxton)
+- [Hunts Open](/photos/2022/hunts)
+- [Frensham Open](/photos/2022/frensham)
+- [Broadstairs Open](/photos/2022/broadstairs)
+- [Nationals](/photos/2022/nationals)
+- [Paxton Open](/photos/2022/paxton)

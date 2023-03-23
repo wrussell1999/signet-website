@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /gallery/2022/nationals
+permalink: /photos/2022/nationals
 ---
 
 # Nationals 2022

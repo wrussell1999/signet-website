@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /gallery/2022/frensham
+permalink: /photos/2022/frensham
 ---
 
 # Frensham Open 2022

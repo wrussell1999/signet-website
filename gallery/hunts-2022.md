@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /gallery/2022/hunts
+permalink: /photos/2022/hunts
 ---
 
 # Hunts Open 2022

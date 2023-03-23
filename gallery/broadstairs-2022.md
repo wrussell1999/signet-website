@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /gallery/2022/broadstairs
+permalink: /photos/2022/broadstairs
 ---
 
 # Broadstairs Open 2022
